@@ -1,0 +1,232 @@
+[
+  {
+    "id": "1",
+    "type": "Grass",
+    "name": "Bulbasaur"
+  },
+  {
+    "id": "2",
+    "type": "Grass",
+    "name": "Ivysaur"
+  },
+  {
+    "id": "3",
+    "type": "Grass",
+    "name": "Venusaur"
+  },
+  {
+    "id": "4",
+    "type": "Fire",
+    "name": "Charmander"
+  },
+  {
+    "id": "5",
+    "type": "Fire",
+    "name": "Charmeleon"
+  },
+  {
+    "id": "6",
+    "type": "Fire",
+    "name": "Charizard"
+  },
+  {
+    "id": "7",
+    "type": "Water",
+    "name": "Squirtle"
+  },
+  {
+    "id": "8",
+    "type": "Water",
+    "name": "Wartortle"
+  },
+  {
+    "id": "9",
+    "type": "Water",
+    "name": "Blastoise"
+  },
+  {
+    "id": "10",
+    "type": "Bug",
+    "name": "Caterpie"
+  },
+  {
+    "id": "11",
+    "type": "Bug",
+    "name": "Metapod"
+  },
+  {
+    "id": "12",
+    "type": "Bug",
+    "name": "Butterfree"
+  },
+  {
+    "id": "13",
+    "type": "Normal",
+    "name": "Pidgey"
+  },
+  {
+    "id": "14",
+    "type": "Normal",
+    "name": "Pidgeotto"
+  },
+  {
+    "id": "15",
+    "type": "Normal",
+    "name": "Pidgeot"
+  },
+  {
+    "id": "16",
+    "type": "Electric",
+    "name": "Pikachu"
+  },
+  {
+    "id": "17",
+    "type": "Electric",
+    "name": "Raichu"
+  },
+  {
+    "id": "18",
+    "type": "Poison",
+    "name": "Ekans"
+  },
+  {
+    "id": "19",
+    "type": "Poison",
+    "name": "Arbok"
+  },
+  {
+    "id": "20",
+    "type": "Ground",
+    "name": "Sandshrew"
+  },
+  {
+    "id": "21",
+    "type": "Ground",
+    "name": "Sandslash"
+  },
+  {
+    "id": "22",
+    "type": "Poison",
+    "name": "Nidoran♀"
+  },
+  {
+    "id": "23",
+    "type": "Poison",
+    "name": "Nidorina"
+  },
+  {
+    "id": "24",
+    "type": "Poison",
+    "name": "Nidoqueen"
+  },
+  {
+    "id": "25",
+    "type": "Poison",
+    "name": "Nidoran♂"
+  },
+  {
+    "id": "26",
+    "type": "Poison",
+    "name": "Nidorino"
+  },
+  {
+    "id": "27",
+    "type": "Poison",
+    "name": "Nidoking"
+  },
+  {
+    "id": "28",
+    "type": "Normal",
+    "name": "Clefairy"
+  },
+  {
+    "id": "29",
+    "type": "Normal",
+    "name": "Clefable"
+  },
+  {
+    "id": "30",
+    "type": "Normal",
+    "name": "Vulpix"
+  },
+  {
+    "id": "31",
+    "type": "Normal",
+    "name": "Ninetales"
+  },
+  {
+    "id": "32",
+    "type": "Water",
+    "name": "Jigglypuff"
+  },
+  {
+    "id": "33",
+    "type": "Water",
+    "name": "Wigglytuff"
+  },
+  {
+    "id": "34",
+    "type": "Bug",
+    "name": "Zubat"
+  },
+  {
+    "id": "35",
+    "type": "Bug",
+    "name": "Golbat"
+  },
+  {
+    "id": "36",
+    "type": "Grass",
+    "name": "Oddish"
+  },
+  {
+    "id": "37",
+    "type": "Grass",
+    "name": "Gloom"
+  },
+  {
+    "id": "38",
+    "type": "Grass",
+    "name": "Vileplume"
+  },
+  {
+    "id": "39",
+    "type": "Grass",
+    "name": "Paras"
+  },
+  {
+    "id": "40",
+    "type": "Grass",
+    "name": "Parasect"
+  },
+  {
+    "id": "41",
+    "type": "Bug",
+    "name": "Venonat"
+  },
+  {
+    "id": "42",
+    "type": "Bug",
+    "name": "Venomoth"
+  },
+  {
+    "id": "43",
+    "type": "Electric",
+    "name": "Diglett"
+  },
+  {
+    "id": "44",
+    "type": "Electric",
+    "name": "Dugtrio"
+  },
+  {
+    "id": "45",
+    "type": "Normal",
+    "name": "Meowth"
+  },
+  {
+    "id": "46",
+    "type": "Normal",
+    "name": "Persian"
+  }
+]

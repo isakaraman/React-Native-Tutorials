@@ -1,0 +1,6 @@
+[
+  { "type": "Fire", "data": ["Charmander", "Vulpix", "Growlithe"] },
+  { "type": "Water", "data": ["Squirtle", "Psyduck", "Poliwag"] },
+  { "type": "Grass", "data": ["Bulbasaur", "Oddish", "Treecko"] },
+  { "type": "Electric", "data": ["Pikachu", "Magnemite", "Voltorb"] }
+]
